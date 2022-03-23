@@ -123,9 +123,12 @@ function Form() {
           >
             <option value="">Escoje un producto...</option>
             <option value="torta">Torta</option>
-            <option value="sandwitch">Sandwitch</option>
-            <option value="paleta_helada">Paleta helada</option>
-            <option value="cono_helado">Cono helado</option>
+            <option value="pasteles">Pasteles</option>
+            <option value="galletas">Galletas</option>
+            <option value="torta_helado">Torta helado</option>
+            <option value="pey">Pey</option>
+            <option value="tostadas">Tostadas</option>
+
           </select>
 
           <label className="form--label">Sabor</label>
@@ -140,7 +143,12 @@ function Form() {
             <option value="chocolate">Chocolate</option>
             <option value="vainilla">Vainilla</option>
             <option value="menta">Menta</option>
-            <option value="oreo">Oreo</option>
+            <option value="--------------">-------------</option>
+            <option value="manzana">Manzana</option>
+            <option value="piña">Piña</option>
+            <option value="---------------">-----------------</option>
+            <option value="sal">Sal</option>
+            <option value="integral">Integral</option>
           </select>
 
           <label className="form--label">Costo individual</label>
