@@ -185,6 +185,7 @@ function Form() {
             )
           }
         </form>
+        <h2>Integrantes: Alexis Feria, Dayanara Tamayo</h2>
       </div>
 
       <div className='container--sales'>
